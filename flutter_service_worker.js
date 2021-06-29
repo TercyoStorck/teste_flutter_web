@@ -83,7 +83,7 @@ const RESOURCES = {
 "icons/Icon-512.png": "03219a316c1311b429078da7bc841e1a",
 "favicon.png": "03219a316c1311b429078da7bc841e1a",
 "index-bkp.html": "a471aaab02332d4709155647693bdec5",
-"main.dart.js": "3cedf63d0e479dd1000ce0c03a8577d3",
+"main.dart.js": "8b376118d070bb5e73aaaaebdd7bda71",
 "index.html": "4152d1f3f59d5e073d11e13a960352dc",
 "/": "4152d1f3f59d5e073d11e13a960352dc",
 "version.json": "54cf0d92c3e661c8ba7d69df68536067",
